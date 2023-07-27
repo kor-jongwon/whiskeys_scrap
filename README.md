@@ -5,7 +5,7 @@ www.whiskybase.com에서 위스키 관련 정보 수집
 # 파일 설명
 1. README.md           : README 파일
 2. whiskey_scrap.ipynb : 위스키 수집 코드(주피터 실행버전)
-//3. whiskey_scrap.py : 위스키 수집 코드(.py 코드) 
+3. whiskey_scrap.py : 위스키 수집 코드(.py 코드) 
 
 
 
