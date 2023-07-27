@@ -10,8 +10,8 @@ www.whiskybase.com에서 위스키 관련 정보 수집
 
 
 # environment setting(개발 환경)
-Editor : PyCharm 2022.2.3 (Community Edition
-         Jupyter lab  4.0.3
+Editor : 1. PyCharm 2022.2.3 (Community Edition)
+         2. Jupyter lab  4.0.3
 
 # install package (패키지 설치)
     pip install jupyter or pip install jupyterlab
