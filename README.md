@@ -1,5 +1,5 @@
 # whiskeys_scrap
-www.whiskybase.com에서 위스키 관련 정보 수집
+www.whiskybase.com 에서 위스키 관련 정보 수집
 
 
 # 파일 설명
